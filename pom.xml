@@ -16,6 +16,8 @@
       <module>cloud-provider-payment8002</module>
       <module>cloud-provider-payment8003</module>
       <module>cloud-zookeeper-server7003</module>
+    <module>cloud-provider-payment8004</module>
+      <module>cloud-consumerConsul-order80</module>
   </modules>
   <packaging>pom</packaging><!-- 这里添加，注意不是jar或war -->
 
